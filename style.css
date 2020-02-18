@@ -1,0 +1,21 @@
+.headings {
+  font-family: 'Oswald';
+}
+
+.nheadings {
+  font-family: 'Open Sans';
+}
+
+body {
+  color: darkblue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: ivory;
+}
+
+.logos {
+  float: left;
+  margin-right: 10px;
+}
